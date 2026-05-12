@@ -44,16 +44,16 @@ export default function HeroSection() {
           </div>
         </div>
 
-        <div className="relative mx-auto w-full max-w-xl">
-          <div className="absolute right-0 top-10 h-72 w-72 rounded-3xl bg-[#071b38]" />
+        <div className="relative mx-auto flex w-full max-w-xl justify-center lg:justify-end">
+          <div className="absolute bottom-10 right-6 h-72 w-72 rounded-full bg-[#b8872f]/20 blur-3xl" />
 
-          <div className="relative z-10 mx-auto h-[520px] w-[420px] overflow-hidden rounded-t-full border-[3px] border-[#b8872f] bg-white shadow-2xl">
+          <div className="relative h-130 w-full max-w-140">
             <Image
-              src="/profilePic.png"
+              src="/profile3.png"
               alt="Clarence Ray Carolino"
               fill
               priority
-              className="object-cover object-center"
+              className="object-contain object-bottom drop-shadow-2xl"
             />
           </div>
         </div>

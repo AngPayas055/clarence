@@ -13,10 +13,10 @@ export const skills = [
 
 export const navItems = [
   "Home",
-  "About",
+  // "About",
   "Experience",
   "Education",
-  "Credentials",
+  // "Credentials",
   "Skills",
   "Advocacy",
   "Contact",
