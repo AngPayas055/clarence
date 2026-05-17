@@ -10,7 +10,7 @@ export default function EducationCredentialsSection() {
         </p>
 
         <h2 className="mt-3 font-serif text-3xl font-bold">
-          Doctor of Law (J.D.)
+          Juris Doctor (J.D.)
         </h2>
 
         <p className="mt-3 font-medium">
